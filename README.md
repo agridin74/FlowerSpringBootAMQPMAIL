@@ -1,4 +1,4 @@
-#Пример обмена сообщениями с использованием RabbitMQ Mail сервера в микросервисной архитектуре
+# Пример обмена сообщениями с использованием RabbitMQ Mail сервера в микросервисной архитектуре
 Spring BOOT RabbitMQ send Mail 
 ## RabbitMQ используем docker контейнер
 	* ~$ docker run -d --hostname my_rabbit --name some-rabbit -p 15672:15762 -p 5672:5672 rabbitmq:3-management - запуск
